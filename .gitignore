@@ -1,0 +1,37 @@
+# Build artifacts
+build/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+Makefile
+
+# Compiled binaries
+*.a
+*.so
+*.dylib
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Log files
+*.log
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
